@@ -39,7 +39,6 @@ diagnostics/
 
 # Editor / tool temp files
 *.tmp
-.vscode/
 .claude/settings.local.json
 .paperclip-local/
 /.idea/
@@ -55,3 +54,7 @@ tests/release-smoke/test-results/
 tests/release-smoke/playwright-report/
 .superset/
 .claude/worktrees/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
